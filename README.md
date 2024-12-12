@@ -32,7 +32,7 @@ I love transforming ideas into interactive projects. Feel free to explore my wor
 ---
 
 ## 📊 GitHub Stats
-![Vino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinothr03&show_icons=true&count_private=true&hide=prs)
+![Vino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinoPandiyanR&show_icons=true&count_private=true&hide=prs)
 
 ---
 
