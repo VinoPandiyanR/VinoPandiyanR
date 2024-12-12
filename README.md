@@ -13,7 +13,7 @@ I'm a passionate Software Engineer with a focus on Back-End Development. I am dr
 ---
 
 ## 🚀 Skills & Technologies
-- Languages & Frameworks:
+- **Languages & Frameworks:**
   - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
   - ![J2EE](https://img.shields.io/badge/J2EE-F9A825?style=flat&logo=java&logoColor=white)  
   - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
@@ -21,7 +21,7 @@ I'm a passionate Software Engineer with a focus on Back-End Development. I am dr
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- Version Control:
+- **Version Control:**
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -43,7 +43,8 @@ I love transforming ideas into interactive projects. Feel free to explore my wor
 ---
 
 ## 📞 Connect with Me
-- 🔗 LinkedIn: [Vinoth R](https://www.linkedin.com/in/vinothr-java)
+- 🔗 LinkedIn: [Vinoth R](https://www.linkedin.com/in/vinothr-java)  
+- ✉️ Email: vinothrcs2003@gmail.com  
 
 ---
 
@@ -53,4 +54,4 @@ I'm always exploring new technologies and improving my skills. Feel free to conn
 
 ---
 
-Thank you for checking out my profile! 
+Thank you for checking out my profile!
