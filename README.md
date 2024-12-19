@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinoth R (but you can call me Vino)
+# 👋 Hi, I'm Vinoth R 
 
 Thank you for visiting my GitHub profile! 😄  
 I'm a passionate Software Engineer with a focus on Back-End Development. I am driven by the desire to innovate and always eager to learn and apply new technologies. I enjoy building impactful, real-world projects and contributing to the tech community. 🚀
