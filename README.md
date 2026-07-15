@@ -43,7 +43,7 @@ I love transforming ideas into interactive projects. Feel free to explore my wor
 ---
 
 ## 📞 Connect with Me
-- 🔗 LinkedIn: [Vinoth R](https://www.linkedin.com/in/vinothr-java)  
+- 🔗 LinkedIn: [Vinoth R](https://www.linkedin.com/in/vinothr-profile)  
 - ✉️ Email: vinothrcs2003@gmail.com  
 
 ---
